@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                       Starting Execution: '16 out of 22' test cases in the current suite                                       
+                             Test Method: 'com.API.shaft.TestCases.ReturnUserTest.Returns_a_list_of_diff_ten_Users'                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @11-12-2024 04:43:58.0875 am
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @11-12-2024 04:43:58.0875 am
+[ReportManager] Handle response; GET | Response Time: 783ms. @11-12-2024 04:43:58.0891 am

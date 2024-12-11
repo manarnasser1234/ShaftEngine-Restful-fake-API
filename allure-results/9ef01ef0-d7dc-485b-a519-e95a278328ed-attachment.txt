@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                       Starting Execution: '10 out of 22' test cases in the current suite                                       
+                           Test Method: 'com.API.shaft.TestCases.RandomCompaniesTest.Return_alist_of_RandomCompanies'                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @11-12-2024 04:43:53.0989 am
+[ReportManager] Actual response status code "200" matches the expected one "200". @11-12-2024 04:43:53.0989 am
+[ReportManager] Handle response; GET | Target Status Code: 200 | Response Time: 749ms. @11-12-2024 04:43:54.0004 am

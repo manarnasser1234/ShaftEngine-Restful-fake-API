@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                       Starting Execution: '18 out of 22' test cases in the current suite                                       
+                         Test Method: 'com.API.shaft.TestCases.ReturnUserTest.Verify_that_each_user_have_required_field'                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @11-12-2024 04:44:00.0381 am
+[ReportManager] Actual response status code "200" matches the expected one "200". @11-12-2024 04:44:00.0381 am
+[ReportManager] Handle response; GET | Target Status Code: 200 | Response Time: 719ms. @11-12-2024 04:44:00.0396 am

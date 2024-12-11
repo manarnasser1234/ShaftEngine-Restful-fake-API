@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5bf9159-b6dc-4191-a335-bffd6c234136" name="Changes" comment="updata" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manarnasser1234/ShaftEngine-Restful-fake-API-.git",
+    "accountId": "f9ea0ec5-5c8c-4be8-95b3-f11bf4ddb062"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.29.0/allure-java-commons-2.29.0-sources.jar!/io/qameta/allure/AllureLifecycle.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pPBw58UhnVaCk86sauXe1cchuR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.shaftEngine [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ApiTest.Check_That_Response_contains_a_list_of_users.executor": "Run",
+    "TestNG.ApiTest.Check_That_Response_include_data_of_users.executor": "Run",
+    "TestNG.ApiTest.Check_That_Validate_DataTypes.executor": "Run",
+    "TestNG.ApiTest.Check_That_enter_invalid_input.executor": "Run",
+    "TestNG.ApiTest.Returns_a_list_of_diff_ten_Users.executor": "Run",
+    "TestNG.ApiTest.Returns_a_list_of_ten_users.executor": "Run",
+    "TestNG.ApiTest.Verify_that_each_user_have_required_field.executor": "Run",
+    "TestNG.ApiTest.executor": "Run",
+    "TestNG.BlogPostsTest.Verify_PostIds_AreUnique.executor": "Run",
+    "TestNG.BlogPostsTest.Verify_That_Validate_DataTypes.executor": "Run",
+    "TestNG.BlogPostsTest.Verify_that_thelist_contains_exactly_10_blogposts.executor": "Run",
+    "TestNG.BlogPostsTest.Verify_the_responsebody_return_alis_of_blogpost.executor": "Run",
+    "TestNG.BlogPostsTest.Verify_validUserIds.executor": "Run",
+    "TestNG.BlogPostsTest.Verify_valid_data_post.executor": "Run",
+    "TestNG.BlogPostsTest.executor": "Run",
+    "TestNG.C:/Users/PC/AppData/Local/Temp/shaftEngine/testng.xml.executor": "Run",
+    "TestNG.ContinentsInformationTest.Verify_that_responsebody_return_informationdata.executor": "Run",
+    "TestNG.ContinentsInformationTest.Verify_validate_AllContinentData.executor": "Run",
+    "TestNG.ContinentsInformationTest.executor": "Run",
+    "TestNG.OpenBrowser.openChromeBrowser.executor": "Run",
+    "TestNG.OpenBrowser.openFirefoxBrowser.executor": "Run",
+    "TestNG.RandomCompaniesTest.Return_adiff_list_of_RandomCompanies.executor": "Run",
+    "TestNG.RandomCompaniesTest.Return_alist_of_RandomCompanies.executor": "Run",
+    "TestNG.RandomCompaniesTest.Verify_That_responsebody_include_alist_of_ten_companies.executor": "Run",
+    "TestNG.RandomCompaniesTest.Verify_That_responsebody_not_return_alist_of_ten_companies.executor": "Run",
+    "TestNG.RandomCompaniesTest.Verify_That_responsebody_return_alist_of_companies.executor": "Run",
+    "TestNG.RandomCompaniesTest.Verify_That_responsebody_return_alist_of_ten_companies.executor": "Run",
+    "TestNG.RandomCompaniesTest.Verify_That_responsebody_return_alist_of_ten_uniqueCompaniesids.executor": "Run",
+    "TestNG.RandomCompaniesTest.Verify_how_theAPI_handles_invalid_endpoints.executor": "Run",
+    "TestNG.RandomCompaniesTest.executor": "Run",
+    "TestNG.ReturnUserTest.executor": "Run",
+    "TestNG.ToDotasksTest.Verify_InvalidEndpoint.executor": "Run",
+    "TestNG.ToDotasksTest.Verify_that_response_include_the_expected_number_of_task.executor": "Run",
+    "TestNG.ToDotasksTest.Verify_that_response_return_the_completed_number_of_ToDo_task.executor": "Run",
+    "TestNG.ToDotasksTest.Verify_that_responsebody_include_alist_of_ToDo_tasks.executor": "Run",
+    "TestNG.ToDotasksTest.executor": "Run",
+    "TestNG.ToDotasksTest.verify_TaskIds_Are_Unique.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PC/AppData/Local/Temp/shaftEngine",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/PC/AppData/Local/Temp/shaftEngine/testng.xml">
+    <configuration name="BlogPostsTest.Verify_That_Validate_DataTypes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="shaftEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.API.shaft.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.API.shaft.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.API.shaft.TestCases.BlogPostsTest" />
+      <option name="METHOD_NAME" value="Verify_That_Validate_DataTypes" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/PC/AppData/Local/Temp/shaftEngine/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="shaftEngine" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinentsInformationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="shaftEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.API.shaft.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.API.shaft.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.API.shaft.TestCases.ContinentsInformationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomCompaniesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="shaftEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.API.shaft.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.API.shaft.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.API.shaft.TestCases.RandomCompaniesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomCompaniesTest.Return_alist_of_RandomCompanies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="shaftEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.API.shaft.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.API.shaft.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.API.shaft.TestCases.RandomCompaniesTest" />
+      <option name="METHOD_NAME" value="Return_alist_of_RandomCompanies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/PC/AppData/Local/Temp/shaftEngine/testng.xml" />
+      <item itemvalue="TestNG.BlogPostsTest.Verify_That_Validate_DataTypes" />
+      <item itemvalue="TestNG.RandomCompaniesTest.Return_alist_of_RandomCompanies" />
+      <item itemvalue="TestNG.ContinentsInformationTest" />
+      <item itemvalue="TestNG.RandomCompaniesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/PC/AppData/Local/Temp/shaftEngine/testng.xml" />
+        <item itemvalue="TestNG.RandomCompaniesTest.Return_alist_of_RandomCompanies" />
+        <item itemvalue="TestNG.RandomCompaniesTest" />
+        <item itemvalue="TestNG.ContinentsInformationTest" />
+        <item itemvalue="TestNG.BlogPostsTest.Verify_That_Validate_DataTypes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5bf9159-b6dc-4191-a335-bffd6c234136" name="Changes" comment="" />
+      <created>1732658065731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732658065731</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updata">
+      <option name="closed" value="true" />
+      <created>1733883875478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733883875478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:io.grpc:grpc-api" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:javax.ws.rs:javax.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:io.qameta.allure:allure-java-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ShaftEngine-Restful-fake-API" />
+    </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="updata" />
+    <option name="LAST_COMMIT_MESSAGE" value="updata" />
+  </component>
+</project>
